@@ -1,4 +1,4 @@
-# myapp
+# Demo myapp for the Task - Country selection from dropdown with from and to dates.
 
 ## Project setup
 ```
