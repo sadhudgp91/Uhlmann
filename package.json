@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "i18n-iso-countries": "^6.7.0",
+    "vue": "^2.6.11",
+    "vue-country-code-select": "^1.6.7",
+    "vuejs-datepicker": "^1.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -39,4 +42,5 @@
     "last 2 versions",
     "not dead"
   ]
+  
 }
